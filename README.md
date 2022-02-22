@@ -14,6 +14,8 @@ In __Quora__, we find that a lot of people ask questions every second. It is imp
 
 Since there are questions that could be semantically and structurally similar to the already asked questions, it would be great to classify those questions as being equivalent and vice-versa. Generating a dataset of 2 questions and an output variable of whether it is the duplicate of the other is handy for machine learning purposes. 
 
+Therefore, we build our data on the basis of achieving with a reasonable accuracy whether a given question is a duplicate of the other or not. After generating this data, it is important to convert the question text into a mathematical vector which could later be used and trained with the aid of machine learning models. 
+
 
 
 In this project, various new features were created. In the data, only the two texts and whether the question is a duplicate or not is given. We have to create new features that would help us in machine learning predictions. Features such as common words between questions, number of important words and other features were considered. 
