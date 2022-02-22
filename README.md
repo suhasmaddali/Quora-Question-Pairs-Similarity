@@ -12,7 +12,7 @@ In __Quora__, we find that a lot of people ask questions every second. It is imp
 
 ## Machine Learning and Data Science
 
-Since there are questions that could be semantically and structurally similar to the already asked questions, it would be great to classify those questions as being equivalent and vice-versa. 
+Since there are questions that could be semantically and structurally similar to the already asked questions, it would be great to classify those questions as being equivalent and vice-versa. Generating a dataset of 2 questions and an output variable of whether it is the duplicate of the other is handy for machine learning purposes. 
 
 
 
