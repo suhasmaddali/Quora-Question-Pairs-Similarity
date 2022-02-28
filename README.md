@@ -5,7 +5,7 @@
 ## Problem Statement
 
 ```diff
-+ Note: This project was developed with the help of https://www.appliedaicourse.com/ based in India. 🙂
++ This project was developed with the help of https://www.appliedaicourse.com/ based in India. 🙂
 ```
 
 The problem is about identifying whether a given question already exists in the repository of questions asked in quora. If the given question is similar __semantically__ and the meaning, the __machine learning algorithms__ must accurately identify whether the questions are duplicate of one another. 
