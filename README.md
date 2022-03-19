@@ -21,7 +21,7 @@ Since there are questions that could be semantically and structurally similar to
 Therefore, we build our data on the basis of achieving with a reasonable accuracy whether a given question is a duplicate of the other or not. After generating this data, it is important to convert the question text into a mathematical vector which could later be used and trained with the aid of machine learning models. 
 
 
-## Outcome
+## Outcomes
 
 After converting a given text to a list of vectors and performing feature engineering, the machine learning models used were Support Vector Machines, Logistic Regression, Gradient Boosted Decision Trees and Random Forests. After training with these models, machine learning predictions were generated with the accuracy about 95 percent on the cross-validation data. With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
 
