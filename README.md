@@ -8,7 +8,7 @@
 + This project was developed with the help of https://www.appliedaicourse.com/ based in India. 🙂
 ```
 
-The problem is about identifying whether a given question already exists in the repository of questions asked in quora. If the given question is similar __semantically__ and the meaning, the __machine learning algorithms__ must accurately identify whether the questions are duplicate of one another. 
+The problem is about identifying whether a given question already exists in the repository of questions asked in __Quora__. If the given question is similar __semantically__ and the meaning, the __machine learning algorithms__ must accurately identify whether the questions are duplicate of one another. 
 
 In __Quora__, we find that a lot of people ask questions every second. It is important that proper steps are taken to remove questions that are similar to the previously asked questions. If a similar question is asked with a change in wording, it would be appropriate to attach answers of the previously asked question that was similar to this question. This would save a lot of time and memory space on the part of Quora and minimize its expenses. 
 
