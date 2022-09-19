@@ -37,7 +37,7 @@ Since the output variable that is considered is a discrete variable (whether sim
 
 ## Future Scope 
 
-* More data from various sources could be added that can help the algorithm predict well on the test data (unseen data).  
+* More data from various sources could be added that helps the algorithm predict well on the test data (unseen data).  
 * Algorithms such as __BERT__ and __ROBERTA__ can be added to improve the predictive performance of the models. 
 * Deep learning models with __various architectures__ should be used to improve the overall performance. 
 * An __API__ could be created for users to make use of the best models in their application in classifying questions. 
