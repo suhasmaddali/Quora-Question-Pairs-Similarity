@@ -23,7 +23,9 @@ Therefore, we build our data on the basis of achieving with a reasonable accurac
 
 ## Outcomes
 
-After converting a given text to a list of vectors and performing feature engineering, the machine learning models used were Support Vector Machines, Logistic Regression, Gradient Boosted Decision Trees and Random Forests. After training with these models, machine learning predictions were generated with the accuracy about 95 percent on the cross-validation data. With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
+* After converting a given text to a list of vectors and performing feature engineering, the machine learning models used were Support Vector Machines, Logistic Regression, Gradient Boosted Decision Trees and Random Forests. 
+* After training with these models, machine learning predictions were generated with the accuracy about 95 percent on the cross-validation data. 
+* With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
