@@ -30,9 +30,9 @@ Therefore, we build our data on the basis of achieving with a reasonable accurac
 ## Future Scope 
 
 * More data from various sources could be added that can help the algorithm predict well on the test data (unseen data).  
-* Algorithms such as BERT and ROBERTA can be added to improve the predictive performance of the models. 
-* Deep learning models with various architectures should be used to improve the overall performance. 
-* An API could be created for users to make use of the best models in their application in classifying questions. 
+* Algorithms such as __BERT__ and __ROBERTA__ can be added to improve the predictive performance of the models. 
+* Deep learning models with __various architectures__ should be used to improve the overall performance. 
+* An __API__ could be created for users to make use of the best models in their application in classifying questions. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
