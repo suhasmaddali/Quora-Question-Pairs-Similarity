@@ -27,6 +27,13 @@ Therefore, we build our data on the basis of achieving with a reasonable accurac
 * After training with these models, machine learning predictions were generated with the accuracy about 95 percent on the cross-validation data. 
 * With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
 
+## Future Scope 
+
+* More data from various sources could be added that can help the algorithm predict well on the test data (unseen data).  
+* Algorithms such as BERT and ROBERTA can be added to improve the predictive performance of the models. 
+* Deep learning models with various architectures should be used to improve the overall performance. 
+* An API could be created for users to make use of the best models in their application in classifying questions. 
+
 
 ## 👉 Directions to download the repository and run the notebook 
 
