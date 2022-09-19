@@ -32,7 +32,7 @@ Since the output variable that is considered is a discrete variable (whether sim
 ## Outcomes
 
 * After converting a given text to a list of vectors and performing feature engineering, the machine learning models used were __Support Vector Machines__, __Logistic Regression__, __Gradient Boosted Decision Trees__ and __Random Forests__. 
-* After training with these models, machine learning predictions were generated with the accuracy about 95 percent on the cross-validation data. 
+* After training with these models, machine learning predictions were generated with the accuracy about __95 percent__ on the cross-validation data. 
 * With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
 
 ## Future Scope 
