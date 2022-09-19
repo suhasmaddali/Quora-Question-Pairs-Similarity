@@ -24,10 +24,10 @@ Therefore, we build our data on the basis of achieving with a reasonable accurac
 
 Since the output variable that is considered is a discrete variable (whether similar or not similar), classification models were used for the predictions. Below are some of the machine learning and deep learning models used to predict whether a pair of questions are similar or not. 
 
-* [Support Vector Machines (SVM)](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
-* [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-* [Gradient Boosted Decision Trees (GBDT)](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
-* [Random Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+* [__Support Vector Machines (SVM)__](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+* [__Logistic Regression__](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+* [__Gradient Boosted Decision Trees (GBDT)__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html)
+* [__Random Forests__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 ## Outcomes
 
