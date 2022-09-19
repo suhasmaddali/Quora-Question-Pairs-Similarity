@@ -20,6 +20,14 @@ Since there are questions that could be semantically and structurally similar to
 
 Therefore, we build our data on the basis of achieving with a reasonable accuracy whether a given question is a duplicate of the other or not. After generating this data, it is important to convert the question text into a mathematical vector which could later be used and trained with the aid of machine learning models. 
 
+## Machine Learning Models 
+
+Since the output variable that is considered is a discrete variable (whether similar or not similar), classification models were used for the predictions. Below are some of the machine learning and deep learning models used to predict whether a pair of questions are similar or not. 
+
+* Support Vector Machines (SVM)
+* Logistic Regression 
+* Gradient Boosted Decision Trees (GBDT)
+* Random Forests 
 
 ## Outcomes
 
