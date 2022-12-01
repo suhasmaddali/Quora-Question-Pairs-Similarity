@@ -8,17 +8,17 @@
 + This project was developed with the help of https://www.appliedaicourse.com/ based in India. 🙂
 ```
 
-The problem is about identifying whether a given question already exists in the repository of questions asked in __Quora__. If the given question is similar __semantically__ and the meaning, the __machine learning algorithms__ must accurately identify whether the questions are duplicate of one another. 
+The problem is about identifying whether a given question already exists in the repository of questions asked in __Quora__. If the given question is similar __semantically__ and the meaning, the __machine learning algorithms__ must accurately identify whether the questions are duplicates of one another. 
 
-In __Quora__, we find that a lot of people ask questions every second. It is important that proper steps are taken to remove questions that are similar to the previously asked questions. If a similar question is asked with a change in wording, it would be appropriate to attach answers of the previously asked question that was similar to this question. This would save a lot of time and memory space on the part of Quora and minimize its expenses. 
+In __Quora__, we find that a lot of people ask questions every second. It is important that proper steps are taken to remove questions that are similar to the previously asked questions. If a similar question is asked with a change in wording, it would be appropriate to attach answers to the previously asked question that was similar to this question. This would save a lot of time and memory space on the part of Quora and minimize its expenses. 
 
 ![](https://github.com/suhasmaddali/Images/blob/main/emily-morter-8xAA0f9yQnE-unsplash.jpg)
 
 ## Machine Learning and Data Science
 
-Since there are questions that could be semantically and structurally similar to the already asked questions, it would be great to classify those questions as being equivalent and vice-versa. Generating a dataset of 2 questions and an output variable of whether it is the duplicate of the other is handy for machine learning purposes. 
+Since there are questions that could be semantically and structurally similar to the already asked questions, it would be great to classify those questions as being equivalent and vice-versa. Generating a dataset of 2 questions and an output variable of whether it is a duplicate of the other is handy for machine learning purposes. 
 
-Therefore, we build our data on the basis of achieving with a reasonable accuracy whether a given question is a duplicate of the other or not. After generating this data, it is important to convert the question text into a mathematical vector which could later be used and trained with the aid of machine learning models. 
+Therefore, we build our data on the basis of achieving reasonable accuracy on whether a given question is a duplicate of the other or not. After generating this data, it is important to convert the question text into a mathematical vector which could later be used and trained with the aid of machine learning models. 
 
 ## Machine Learning Models 
 
@@ -32,12 +32,12 @@ Since the output variable that is considered is a discrete variable (whether sim
 ## Outcomes
 
 * After converting a given text to a list of vectors and performing feature engineering, the machine learning models used were __Support Vector Machines__, __Logistic Regression__, __Gradient Boosted Decision Trees__ and __Random Forests__. 
-* After training with these models, machine learning predictions were generated with the accuracy about __95 percent__ on the cross-validation data. 
+* After training with these models, machine learning predictions were generated with an accuracy of about __95 percent__ on the cross-validation data. 
 * With the best model, therefore, it is possible to deploy it in real-time in classifying the text as a duplicate or non-duplicate. 
 
 ## Future Scope 
 
-* More data from various sources could be added that helps the algorithm predict well on the test data (unseen data).  
+* More data from various sources could be added that help the algorithm predict well on the test data (unseen data).  
 * Algorithms such as __BERT__ and __ROBERTA__ can be added to improve the predictive performance of the models. 
 * Deep learning models with __various architectures__ should be used to improve the overall performance. 
 * An __API__ could be created for users to make use of the best models in their application in classifying questions. 
